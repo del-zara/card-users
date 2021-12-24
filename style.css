@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    align-items: center;
+
+}
+
+div{
+    display: flex;
+    background-color: black;
+    border-radius: 2%;
+    height: 30%;
+    width: 40%;
+    margin: 2%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img{
+    border-radius: 5%;
+}
+
+
+.div2{
+    display: block;
+    border: grey;
+    border-style:dashed; 
+}
+
+
+
+p{
+    color: white;
+    font-size: 14px;
+    padding-left: 5%;
+    
+    
+}
+
+ h2{
+     color: orangered;
+     font-size: 16px;
+     padding-left: 5%;
+ }
